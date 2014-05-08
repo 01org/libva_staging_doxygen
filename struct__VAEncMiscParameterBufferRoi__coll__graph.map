@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct__VAEncMiscParameterBufferRoi_1_1VAEncROI.html" title="Pointer to a VAEncROI array with num_ROI elements." alt="" coords="5,101,291,131"/>
+<area shape="rect" id="node4" href="$struct__VARectangle.html" title="_VARectangle" alt="" coords="95,5,201,35"/>
+</map>
